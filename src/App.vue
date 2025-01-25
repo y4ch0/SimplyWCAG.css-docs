@@ -37,7 +37,7 @@ export default {
     <button class="menu-collapse" v-on:click="updateHidden"><i class="bi bi-list"></i></button>
   </nav>
   <main>
-    <header class="page-header" v-if="$route.path == '/'">
+    <header class="page-header" v-if="$route.path == '/'" style="overflow-x: hidden;">
       <div class="row">
         <img src="./assets/logo.svg" class="mw-25">
       </div>
