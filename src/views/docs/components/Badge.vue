@@ -1,0 +1,70 @@
+<script setup>
+import asideLinks from '@/components/ComponentList.vue'
+</script>
+<template>
+    <div class="rows">
+        <div class="row">
+            <h1 id="description">Badge</h1>
+            <p>A badge helps user to notice modified or new data.</p>
+            <details open>
+                <summary>Component preview</summary>
+                <div class="details-content">
+                    <h3>Standard badges</h3>
+                    <p>
+                        <span class="badge information">
+                            Lorem, ipsum dolor.
+                        </span>
+                        <span class="badge warning">
+                            Lorem, ipsum dolor.
+                        </span>
+                        <span class="badge success">
+                            Lorem, ipsum dolor.
+                        </span>
+                        <span class="badge error">
+                            Lorem, ipsum dolor.
+                        </span>
+                    </p>
+                    <h3>Bolded-text badges</h3>
+                    <p>
+                        <span class="badge bold information">
+                            Lorem, ipsum dolor.
+                        </span>
+                        <span class="badge bold warning">
+                            Lorem, ipsum dolor.
+                        </span>
+                        <span class="badge bold success">
+                            Lorem, ipsum dolor.
+                        </span>
+                        <span class="badge bold error">
+                            Lorem, ipsum dolor.
+                        </span>
+                    </p>
+                </div>
+            </details>
+            <div class="alert warning">
+                <div class="icon">
+                    <i class="bi bi-info-circle-fill"></i>
+                </div>
+                <div class="data">
+                    <h3>Notice the classname for this component.</h3>
+                    <p>To use bolded-text badge add <code>bold</code> tag to classname of <code>&lt;span></code>.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <details>
+                <summary>Component code</summary>
+                <div class="details-content">
+                    <div class="code-block">
+                        <pre><code>&lt;span class="badge information"&gt;
+    Lorem, ipsum dolor.
+&lt;/span&gt;</code></pre>
+                    </div>
+                </div>
+            </details>
+        </div>
+    </div>
+    <aside>
+        <asideLinks />
+    </aside>
+</template>
