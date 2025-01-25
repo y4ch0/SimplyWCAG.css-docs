@@ -1,0 +1,17 @@
+import{a as s}from"./ComponentList-BSrAHLYY.js";import{a,c as e,b as o,d as l,F as i,o as r}from"./index-wSZYsuKX.js";const v={__name:"FormProgress",setup(d){return(c,t)=>(r(),a(i,null,[t[0]||(t[0]=e(`<div class="rows"><div class="row"><h1 id="description">Form progress</h1><p>A form progress updates users on their progress through a multi-step process.</p><details open><summary>Component preview</summary><div class="details-content"><div class="form-progress"><div class="bars"><div class="bar complete"></div><div class="bar complete"></div><div class="bar complete"></div><div class="bar"></div><div class="bar"></div></div><div class="description"><h2 class="progress-heading"><span class="current-step">3</span><span class="steps-left">of 5</span></h2><h3>Personal data</h3><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p></div></div></div></details></div><div class="row"><details><summary>Component code</summary><div class="details-content"><div class="code-block"><pre><code>&lt;div class=&quot;form-progress&quot;&gt;
+    &lt;div class=&quot;bars&quot;&gt;
+        &lt;div class=&quot;bar complete&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;bar complete&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;bar complete&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;bar&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;bar&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;description&quot;&gt;
+        &lt;h2 class=&quot;progress-heading&quot;&gt;
+            &lt;span class=&quot;current-step&quot;&gt;3&lt;/span&gt;
+            &lt;span class=&quot;steps-left&quot;&gt;of 5&lt;/span&gt;
+        &lt;/h2&gt;
+        &lt;h3&gt;Personal data&lt;/h3&gt;
+        &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</code></pre></div></div></details></div></div>`,1)),o("aside",null,[l(s)])],64))}};export{v as default};
