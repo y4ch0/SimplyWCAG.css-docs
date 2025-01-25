@@ -59,7 +59,7 @@ export default {
     <div class="wrapper">
       <hr>
       <p>Created by: <a href="https://github.com/y4ch0">y4ch0</a> @ &copy; 2025 | Licensed under CC BY-SA 4.0</p>
-      <p>Website created with: <a href="//vuejs.org">Vue.js</a>, <a href="/">SimplyWCAG.css</a>, <a href="//icons.getbootstrap.com">Bootstrap icons</a></p>
+      <p>Website created with: <a href="//vuejs.org">Vue.js</a>, <a href="//y4ch0.github.io/SimplyWCAG.css-docs/">SimplyWCAG.css</a>, <a href="//icons.getbootstrap.com">Bootstrap icons</a></p>
     </div>
   </footer>
 </template>
