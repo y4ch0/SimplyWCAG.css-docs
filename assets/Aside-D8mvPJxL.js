@@ -1,0 +1,14 @@
+import{a as l}from"./ComponentList-CAppzH0k.js";import{a as i,c as o,b as e,d as s,F as a,o as r}from"./index-BI-tLvRI.js";const n={__name:"Aside",setup(d){return(m,t)=>(r(),i(a,null,[t[0]||(t[0]=o(`<div class="rows"><div class="row"><h1 id="description">Aside</h1><p>An aside allows user to migrate between other pages related to the main one.</p><details open><summary>Component preview</summary><div class="details-content"><aside><ul><li><a href="#">Lorem ipsum dolor sit</a></li><li><a href="#">Lorem ipsum dolor sit</a></li><li><a href="#">Lorem ipsum dolor sit</a></li><li><a href="#">Lorem ipsum dolor sit</a></li><li><a href="#">Lorem ipsum dolor sit</a></li><li><a href="#">Lorem ipsum dolor sit</a></li><li><a href="#">Lorem ipsum dolor sit</a></li><li><a href="#">Lorem ipsum dolor sit</a></li><li><a href="#">Lorem ipsum dolor sit</a></li><li><a href="#">Lorem ipsum dolor sit</a></li></ul></aside></div></details><div class="alert warning"><div class="icon"><i class="bi bi-info-circle-fill"></i></div><div class="data"><h3>Note for developer.</h3><p>Put <code>&lt;aside&gt;</code> among with the <code>rows</code> div inside <code>&lt;main&gt;&lt;wrapper&gt;...&lt;/wrapper&gt;&lt;/main&gt;</code> in the webiste on the same level. Put <code>row</code> divs inside the <code>rows</code>.</p></div></div></div><div class="row"><details><summary>Component code</summary><div class="details-content"><div class="code-block"><pre><code>&lt;aside&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Lorem ipsum dolor sit&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Lorem ipsum dolor sit&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Lorem ipsum dolor sit&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Lorem ipsum dolor sit&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Lorem ipsum dolor sit&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Lorem ipsum dolor sit&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Lorem ipsum dolor sit&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Lorem ipsum dolor sit&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Lorem ipsum dolor sit&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Lorem ipsum dolor sit&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/aside&gt;</code></pre></div></div></details></div></div>`,1)),e("aside",null,[s(l)])],64))}};export{n as default};

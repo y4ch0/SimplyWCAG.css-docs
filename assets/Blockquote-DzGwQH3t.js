@@ -1,0 +1,7 @@
+import{a as i}from"./ComponentList-CAppzH0k.js";import{a,c as t,b as s,d as o,F as u,o as l}from"./index-BI-tLvRI.js";const c={__name:"Blockquote",setup(m){return(n,e)=>(l(),a(u,null,[e[0]||(e[0]=t(`<div class="rows"><div class="row"><h1 id="description">Blockqoute</h1><p>A blockqoute helps to present quote.</p><details open><summary>Component preview</summary><div class="details-content"><blockquote>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat saepe quas porro sequi eius quisquam magni quos modi alias incidunt. Placeat laudantium animi officiis? Eligendi, similique laudantium id maxime iste magnam. Suscipit quis doloremque ex in dicta, assumenda illum aperiam libero, vero amet repellat sed velit rerum ut! Exercitationem, sapiente.</blockquote></div></details></div><div class="row"><details><summary>Component code</summary><div class="details-content"><div class="code-block"><pre><code>&lt;blockquote&gt;
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat saepe 
+    quas porro sequi eius quisquam magni quos modi alias incidunt. Placeat laudantium 
+    animi officiis? Eligendi, similique laudantium id maxime iste magnam. Suscipit 
+    quis doloremque ex in dicta, assumenda illum aperiam libero, vero amet repellat sed 
+    velit rerum ut! Exercitationem, sapiente.
+&lt;/blockquote&gt;</code></pre></div></div></details></div></div>`,1)),s("aside",null,[o(i)])],64))}};export{c as default};
