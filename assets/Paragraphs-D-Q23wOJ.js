@@ -1,6 +1,0 @@
-import{a as e}from"./ComponentList-BSrAHLYY.js";import{a as s,c as a,b as t,d as o,F as r,o as d}from"./index-wSZYsuKX.js";const u={__name:"Paragraphs",setup(m){return(n,i)=>(d(),s(r,null,[i[0]||(i[0]=a(`<div class="rows"><div class="row"><h1 id="description">Paragraphs</h1><p>Paragraphs are used to seperate blocks of text for easier readability.</p><details open><summary>Component preview</summary><div class="details-content"><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit doloremque dignissimos nemo maxime alias perferendis, consectetur iusto minima dolorem earum incidunt quos aliquam obcaecati at corrupti, impedit distinctio similique minus?</p></div></details></div><div class="row"><details><summary>Component code</summary><div class="details-content"><div class="code-block"><pre><code>&lt;p&gt;
-    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit doloremque 
-    dignissimos nemo maxime alias perferendis, consectetur iusto minima dolorem 
-    earum incidunt quos aliquam obcaecati at corrupti, impedit distinctio 
-    similique minus?
-&lt;/p&gt;</code></pre></div></div></details></div></div>`,1)),t("aside",null,[o(e)])],64))}};export{u as default};
